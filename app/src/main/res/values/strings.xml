@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bottom Sheet</string>
+    <string name="bottom_sheet_peek">Bottom Sheet Peek</string>
+    <string name="bottom_sheet_content">Bottom Sheet Content</string>
+    <string name="STATE_DRAGGING">STATE DRAGGING</string>
+    <string name="STATE_EXPANDED">STATE EXPANDED</string>
+    <string name="STATE_COLLAPSED">STATE COLLAPSED</string>
+    <string name="STATE_HALF_EXPANDED">STATE HALF EXPANDED</string>
+    <string name="STATE_HIDDEN">STATE HIDDEN</string>
+    <string name="STATE_SETTLING">STATE SETTLING</string>
+</resources>
